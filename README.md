@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/PHOOBESH/PHOOBESH/main/assets/name.svg" alt="Vishal M" />
+</h1>
 
-<!--
-**PHOOBESH/PHOOBESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=PHOOBESH&show_icons=true&theme=neon" />
+  </a>
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PHOOBESH&theme=neon" alt="GitHub Streak" height="150"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PHOOBESH&theme=merko&area=true&bg_color=000000" alt="Activity Graph"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
