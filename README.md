@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/PHOOBESH/PHOOBESH/main/assets/name.svg" alt="Vishal M" />
+  <img src="https://raw.githubusercontent.com/PHOOBESH/PHOOBESH/main/assets/name.svg" alt="Phoobesh S" />
 </h1>
 
 <div align="center">
