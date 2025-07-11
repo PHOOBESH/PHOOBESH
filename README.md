@@ -9,8 +9,6 @@
   </a>
 </div>
 
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PHOOBESH&theme=merko&area=true&bg_color=000000" alt="Activity Graph"/>
 </p>
